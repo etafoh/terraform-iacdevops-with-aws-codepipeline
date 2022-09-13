@@ -14,9 +14,9 @@ vpc_single_nat_gateway = true
 
 # EC2 Instance Variables
 instance_type = "t3.micro"
-instance_keypair = "terraform-key"
+instance_keypair = "callis"
 private_instance_count = 2
 
 # DNS Name
-dns_name = "stagedemo5.devopsincloud.com"
+dns_name = "stagedemo5.netbiz.click"
 
